@@ -1,0 +1,2 @@
+nombre = input("Arturo: ")
+print(f"Hola {Arturo}!")
